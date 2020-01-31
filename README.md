@@ -1,4 +1,4 @@
-# apmikinas website
+# APMIKINAS Website
 
 ## Getting started
 
